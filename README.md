@@ -99,7 +99,7 @@ SpyNet is a management website where users can purchase ingredients and craft it
 * It is maintained by Google, and follows single-page routing.
 * Used to create the frontend of the website.
 <p>Angular TS allowed us to build and test the frontend of the website.</p>
-<img src="spynet/src/assets/readmeAssets/Angular.png" alt="Angular-Logo" style="width: 400px; height: 225px;"/>
+<img src="spynet-backend/src/assets/readmeAssets/Angular.png" alt="Angular-Logo" style="width: 400px; height: 225px;"/>
 
 <!-- PostgreSQL -->
 #### PostgreSQL
